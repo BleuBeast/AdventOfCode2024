@@ -1,6 +1,6 @@
 import os
 
-file_name = "day_1_input.txt"
+file_name = "../Input/day_1_input.txt"
 dir_name = os.path.dirname(__file__)
 file_path = os.path.join(dir_name, file_name)
 
